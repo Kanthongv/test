@@ -1,2 +1,2 @@
 # Git Test
-Git Test from feature refixed
+Git Test from feature refixed locally
